@@ -1,12 +1,60 @@
-# React + Vite
+# 🎓 Next Gen Academy  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Next Gen Academy is a modern education web application that provides an interactive learning platform for students.  
+It includes features such as user authentication, dashboards, course listings, assignments, and profile management.  
 
-Currently, two official plugins are available:
+The application is built with **React**, styled with **Tailwind CSS**, and powered by public APIs for learning content.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 **Authentication** (Signup, Login, Password Reset)  
+- 🏠 **Dashboard** with widgets (Courses, Deadlines, Progress)  
+- 📚 **Courses Page** (course listings using Fake Store API / Open Library API)  
+- 📝 **Assignments Page** (tasks and status from JSONPlaceholder API)  
+- 👤 **Profile Page** (student details from Random User API)  
+- 🎨 **Responsive UI** built with Tailwind CSS  
+- 🌍 **Deployed on Vercel** for live access  
+
+---
+
+## 🖼️ Screens  
+
+- **Landing Page** – Clean homepage with navigation  
+- **Signup/Login** – Secure user registration and login  
+- **Dashboard** – Sidebar, top bar, and main course container  
+- **Assignments** – Task management with status tracking  
+- **Profile** – User information with edit option  
+
+---
+
+## 🎨 Color Palette  
+
+The application uses a custom intuitive palette:  
+
+- `#cfeaf6`  
+- `#05283a`  
+- `#9fc1d2`  
+- `#219EBC`  
+- `#023047`  
+- `#8ECAE6`  
+
+---
+
+## ⚙️ Tech Stack  
+
+- **Frontend**: React, React Router, Tailwind CSS  
+- **State Management**: React Hooks  
+- **APIs Used**:  
+  - Fake Store API (`https://fakestoreapi.com/products`)  
+  - Open Library API (`https://openlibrary.org/search.json`)  
+  - JSONPlaceholder (`https://jsonplaceholder.typicode.com/todos`)  
+  - Random User API (`https://randomuser.me/api`)  
+
+- **Deployment**: Vercel  
+
+---
+
+## 📂 Project Structure  
+
