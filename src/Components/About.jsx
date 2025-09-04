@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <section className="bg-gradient-to-r from-[#219EBC] to-[#8ECAE6] text-white py-16 text-center">
-      <div className="container mx-auto px-6">
+      <div className="container mx-auto px-6" id="About">
         <h2 className="text-3xl font-bold mb-4">About EduPlatform</h2>
         <p className="max-w-3xl mx-auto mb-8">
           EduPlatform is a modern learning management system designed to make
