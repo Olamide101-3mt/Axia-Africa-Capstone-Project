@@ -17,7 +17,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
         transition-transform duration-300 ease-in-out
         lg:translate-x-0 lg:relative lg:z-auto`}
       >
-        <h1 className="text-2xl font-bold mb-10">EduPlatform</h1>
+        <h1 className="text-2xl font-bold mb-10">NextGen Academy</h1>
         <nav className="flex flex-col gap-4">
           <Link to="/dashboard" className="hover:text-[#8ECAE6]">Dashboard</Link>
           <Link to="/courses" className="hover:text-[#8ECAE6]">Courses</Link>

@@ -23,7 +23,7 @@ const Features = () => {
   return (
     <section className="py-16 text-center" id="Features">
       <div className="container mx-auto px-6">
-        <h2 className="text-3xl font-bold text-[#023047]">Why Choose EduPlatform?</h2>
+        <h2 className="text-3xl font-bold text-[#023047]">Why Choose NextGen Academy?</h2>
         <p className="mt-2 text-gray-600">
           We provide everything you need to succeed in your learning journey
         </p>

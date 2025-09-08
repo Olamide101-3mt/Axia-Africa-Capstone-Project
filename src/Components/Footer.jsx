@@ -23,7 +23,7 @@ const Footer = ()  =>{
         <div className="grid gap-8 lg:grid-cols-4 md:grid-cols-2 grid-cols-1">
           {/* Brand */}
           <div className="space-y-3">
-            <h3 className="text-white text-lg font-semibold">EduPlatform</h3>
+            <h3 className="text-white text-lg font-semibold">NextGen Academy</h3>
             <p className="text-sm leading-relaxed max-w-[320px]">
               Empowering learners worldwide with quality education and innovative learning experiences.
             </p>
@@ -34,9 +34,9 @@ const Footer = ()  =>{
             <h4 className="text-[#cfeaf6] font-semibold mb-3">Quick Links</h4>
             <ul className="space-y-2">
               <li><a className="text-sm hover:text-white" href="/">Home</a></li>
-              <li><a className="text-sm hover:text-white" href="/features">Features</a></li>
-              <li><a className="text-sm hover:text-white" href="/about">About</a></li>
-              <li><a className="text-sm hover:text-white" href="/contact">Contact</a></li>
+              <li><a className="text-sm hover:text-white" href="#Features">Features</a></li>
+              <li><a className="text-sm hover:text-white" href="#About">About</a></li>
+              <li><a className="text-sm hover:text-white" href="#Contact">Contact</a></li>
             </ul>
           </div>
 
@@ -94,7 +94,7 @@ const Footer = ()  =>{
 
         {/* Copyright */}
         <div className="mt-4 text-center text-sm text-[#9fc1d2]">
-          © 2025 EduPlatform. All rights reserved.
+          © 2025 NextGen Academy. All rights reserved.
         </div>
       </div>
     </footer>

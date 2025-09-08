@@ -1,5 +1,6 @@
 import React from "react";
 import StudentImage from "../assets/StudentImage.jpg";
+import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <section className="bg-[#8ECAE6] py-16">
@@ -13,14 +14,13 @@ const Hero = () => {
             career with our comprehensive learning platform.
           </p>
           <div className="flex gap-4">
-            <a
-              href="#"
+            <Link to = "/signup"
               className="bg-[#023047] text-white px-6 py-3 rounded-md"
             >
               Get Started
-            </a>
+            </Link>
             <a
-              href="#"
+              href="#About"
               className="border border-[#023047] text-[#023047] px-6 py-3 rounded-md bg-white"
             >
               Learn More

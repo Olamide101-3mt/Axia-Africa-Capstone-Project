@@ -4,9 +4,9 @@ const About = () => {
   return (
     <section className="bg-gradient-to-r from-[#219EBC] to-[#8ECAE6] text-white py-16 text-center">
       <div className="container mx-auto px-6" id="About">
-        <h2 className="text-3xl font-bold mb-4">About EduPlatform</h2>
+        <h2 className="text-3xl font-bold mb-4">About NextGen Academy</h2>
         <p className="max-w-3xl mx-auto mb-8">
-          EduPlatform is a modern learning management system designed to make
+          NextGen Academy is a modern learning management system designed to make
           education accessible, engaging, and effective. We believe that
           everyone should have the opportunity to learn new skills and advance
           their careers, regardless of their background or location.
