@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo and title */}
         <div className="flex items-center gap-3">
-          <img src="/Logo.png" alt="logo" className="w-10 h-10" />
+          <img src="/Logo1.png" alt="logo" className="w-20 h-20" />
           <h2 className="text-xl md:text-2xl font-bold">NextGen Academy</h2>
         </div>
 
