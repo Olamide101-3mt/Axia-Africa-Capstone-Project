@@ -66,7 +66,7 @@ const Signup = () => {
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
         <h2 className="text-2xl font-bold text-center mb-4">Create Account</h2>
         <p className="text-center mb-6 text-gray-600">
-          Join EduPlatform and start learning today
+          Join NextGen Academy and start learning today
         </p>
         <form onSubmit={handleSubmit} className="space-y-4">
           <input
