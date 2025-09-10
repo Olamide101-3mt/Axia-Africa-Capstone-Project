@@ -12,7 +12,7 @@ const DashboardModules = () => {
     {
       id: 2,
       title: "Python Programming",
-      image: "https://via.placeholder.com/150x100.png?text=Python",
+      image: "/Logo.png",
       progress: 40,
       link: "#",
     },
